@@ -1,13 +1,9 @@
 ![](screen2.gif)# 
 
-# Authentication (Kimlik Doğrulama)
+# Firebase
 
-- kulalnıının kimliğğini doğrulama aşaması
-- kullanın sahip olduğu google hesabı veya
-- eposta şifre ile kimliğini doğrulayabiliriz
+# Authentication 
 
-# Authorization (Yetkilendirme)
+# Authorization 
 
-- kulanınıcın kimliğine göre uygulama
-- içerisndeki erişimlerini kısatlama
 # chat-with-fire
